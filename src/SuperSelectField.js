@@ -4,9 +4,9 @@
 import React, { Component } from 'react';
 import { object } from 'prop-types';
 import InfiniteScroller from 'react-infinite';
-import ListItem from 'material-ui/List/ListItem';
-import Popover from 'material-ui/Popover/Popover';
-import TextField from 'material-ui/TextField/TextField';
+import ListItem from '@material-ui/core/ListItem';
+import Popover from '@material-ui/core/Popover';
+import TextField from '@material-ui/core/TextField';
 
 import SelectionsPresenter from './SelectionsPresenter';
 import { getChildrenLength, areEqual } from './utils';
