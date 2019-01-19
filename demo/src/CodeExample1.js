@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import SuperSelectField from 'material-ui-superselectfield';
-import Toggle from 'material-ui/Toggle';
+import Toggle from '@material-ui/core/Toggle';
 
 const containerStyle = {
   padding: 40,
