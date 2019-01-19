@@ -1,7 +1,7 @@
 import React from 'react';
-import FlatButton from 'material-ui/FlatButton/FlatButton';
-import CheckedIcon from 'material-ui/svg-icons/navigation/check';
-import UnCheckedIcon from 'material-ui/svg-icons/toggle/check-box-outline-blank';
+import FlatButton from '@material-ui/core/Button';
+import CheckedIcon from '@material-ui/icons/Check';
+import UnCheckedIcon from '@material-ui/icons/CheckBoxOutlineBlank';
 
 export default {
   anchorOrigin: { vertical: 'top', horizontal: 'left' },
