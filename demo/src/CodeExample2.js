@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import FlatButton from 'material-ui/FlatButton/FlatButton';
+import FlatButton from '@material-ui/core/Button';
 import SuperSelectField from 'material-ui-superselectfield';
 
 const containerStyle = {
